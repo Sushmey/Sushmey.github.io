@@ -8,7 +8,7 @@ I am an incoming Computer Science Graduate student at CU Boulder. I'm a software
 Previously, I've worked at Wells Fargo, building data processing frameworks and interned at Barclays. I have also contributed extensively to Zulip Terminal, an open-source terminal-based chat application.
 
 
-My [Resume]().
+My [Resume](../assets/Sushmey_Resume.pdf).
 
 
 

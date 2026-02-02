@@ -9,7 +9,7 @@ Previously, I've worked at Wells Fargo, building data processing frameworks and 
 
 Get to know me better! [Ask questions about me.](https://sushmey-llm.streamlit.app)
 
-My [Resume](assets/Resume_Sushmey_N.pdf).
+My [Resume](assets/Resume_Sushmey_A.pdf).
 
 
 

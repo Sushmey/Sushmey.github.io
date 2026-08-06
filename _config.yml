@@ -21,12 +21,11 @@ google-analytics: G-D3VS7BG3S0
 title: Sushmey
 email: sushmeywork@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Sushmey! I'm a software developer with about 2 years of experience, 
-  currently working at Wells Fargo, building data processing platforms. 
-  I've worked with various technologies and frameworks such as
-  Python, Java, SQL, Spark, Hive, Django, Express, etc.
-  Previously, I interned at Barclays and have also contributed extensively to Zulip Terminal, 
-  an open-source terminal-based chat application.
+  Hi, I'm Sushmey! 
+  I'm pursuing my Master's in Computer Science at CU Boulder, following about 2 years of experience working as a software developer. I've worked with various technologies and frameworks such as Python, Java, SQL, Spark, Hive, Django, Express, etc.
+
+  This summer, I interned at eBay, building an observability platform that fuses and normalizes fragmented user-journey signals into diagnostic timelines for eBay Live's bidding and session systems. Before that, I worked at Wells Fargo, building data processing frameworks, and interned at Barclays. I have also contributed extensively to Zulip Terminal, an open-source terminal-based chat application.
+
   Let's get in touch, contact me at sushmeywork@gmail.com or slide into my Linkedin DMs!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sushmey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -53,8 +52,8 @@ author:
     University of Colorado, Boulder    
 
 
-    **Actively looking for internships for 
-    Summer '26.**
+    **Actively looking for full-time opportunities for.
+    '27.**
   location : "Boulder, CO"
   links:
     - label: "GitHub"

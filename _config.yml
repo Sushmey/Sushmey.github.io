@@ -46,13 +46,14 @@ atom_feed:
 author:
   name     : "Sushmey Nirmal"
   avatar   : "/assets/images/sushmey.jpg"
+  home     : "/about/"
   bio      : >-
     MS in Computer Science      
 
     University of Colorado, Boulder    
 
 
-    **Actively looking for full-time opportunities for.
+    **Actively looking for full-time opportunities for
     '27.**
   location : "Boulder, CO"
   links:

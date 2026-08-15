@@ -45,7 +45,7 @@ atom_feed:
 ## Site Author column
 author:
   name     : "Sushmey Nirmal"
-  avatar   : "/assets/images/sushmey.jpg"
+  avatar   : "/assets/images/sushmey_asset.jpg"
   home     : "/about/"
   bio      : >-
     MS in Computer Science      

@@ -12,3 +12,5 @@ This summer, I interned at eBay, building an observability platform that fuses a
 Get to know me better! [Ask questions about me.](https://sushmey-llm.streamlit.app)
 
 My [Resume](assets/Resume_Sushmey_A.pdf)
+
+<img src="/assets/ebay.png" alt="eBay" width="40" height="40"> <img src="/assets/wells_fargo.jpg" alt="Wells Fargo" width="40" height="40"> <img src="/assets/9762-barclays.png" alt="Barclays" width="40" height="40">

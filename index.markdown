@@ -11,6 +11,8 @@ Get to know me better! [Ask questions about me.](https://sushmey-llm.streamlit.a
 
 My [Resume](assets/Resume_Sushmey_A.pdf).
 
+<img src="/assets/ebay.png" alt="eBay" width="40" height="40"> <img src="/assets/wells_fargo.jpg" alt="Wells Fargo" width="40" height="40"> <img src="/assets/9762-barclays.png" alt="Barclays" width="40" height="40">
+
 
 
 

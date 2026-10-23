@@ -1,0 +1,20 @@
+# Sushmey Nirmal
+
+> MS Computer Science student at CU Boulder with ~2 years of software development experience. Looking for full-time software engineering roles starting 2027.
+
+## About
+
+- [Homepage](https://sushmey.com/): background, experience, and contact
+- [About](https://sushmey.com/about/): more about Sushmey
+- [Projects](https://sushmey.com/projects/): selected projects
+- [Resume](https://sushmey.com/assets/Resume_Sushmey_A.pdf)
+
+## Detailed summary
+
+- [Background and experience summary](https://winter-rice-149f.meymeyspam.workers.dev/llms): concise overview of education, experience, skills, and contact info
+
+## Contact
+
+- Email: sushmeywork@gmail.com
+- [LinkedIn](https://linkedin.com/in/Sushmey)
+- [GitHub](https://github.com/Sushmey)
